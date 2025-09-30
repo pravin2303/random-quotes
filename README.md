@@ -16,7 +16,7 @@ Tailwind CSS
 ✏️ How to Edit the Code
 1. Work Locally with Your IDE
 # Step 1: Clone the repository
-git clone <(https://github.com/pravin2303/random-quotes)>
+git clone < https://github.com/pravin2303/random-quotes />
 
 # Step 2: Navigate into the project folder
 cd <random-quotes>
