@@ -19,7 +19,7 @@ Tailwind CSS
 git clone < https://github.com/pravin2303/random-quotes />
 
 # Step 2: Navigate into the project folder
-cd <random-quotes>
+cd < random-quotes />
 
 # Step 3: Install dependencies
 npm install
